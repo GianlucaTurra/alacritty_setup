@@ -6,6 +6,7 @@ import = [
 [window]
 opacity = 0.9
 decorations = "Full"
+padding = {x=10,y=10}
 
 [font]
 normal = {family = "MesloLGS NF"}
